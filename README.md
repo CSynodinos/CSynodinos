@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christos Synodinos
 - 👀 I’m interested in having a career as a data analyst with a focus on business intelligence
 - 🌱 I’m currently learning SQL
-- 💞
 - 📫 You can reach me via email at chris_sinodinos@outlook.com
 
 <!---
