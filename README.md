@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christos Synodinos.
 - 👀 My career goal is to lead bioinformatics projects
-- :star: I recently deployed my first python package!!! You can find it in my converters repository.
+- :star: I recently deployed my first python package!!! You can find it in my [converters](https://github.com/CSynodinos/converters) repository.
 - 🌱 I’m currently learning Django, Javascript (REACT) and REST API's.
 - 📫 You can reach me via email at chris_sinodinos@outlook.com
 - I am proficient in Python, Jupyter Notebooks, and SQL both through personal projects and work experience. 
