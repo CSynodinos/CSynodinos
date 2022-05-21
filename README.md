@@ -1,5 +1,5 @@
 - 👋 Hello World, I’m Christos Synodinos.
-- 👀 My career goal is to become a bioinformatician.
+- 👀 My career goal is to become an expert bioinformatician.
 - :star: I recently deployed my first python package!!! You can find it in my [flconverters](https://github.com/CSynodinos/flconverters) repository.
 - 🌱 I’m currently learning AWS CI & CD and integration.
 - :book: I am proficient in Python, Jupyter Notebooks, and SQL both through personal projects and work experience. 
