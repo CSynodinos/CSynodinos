@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning AWS CI & CD and integration.
 - 📫 You can reach me via email at chris_sinodinos@outlook.com
 - I am proficient in Python, Jupyter Notebooks, and SQL both through personal projects and work experience. 
-- I am currently leading a team for the development of a LIMS system in Google Sheets.
-- Current personal project: Copy Number Variant analyzer for the Illumina cnv.vcf files in python.  
+- I am currently leading a team for the development of a LIMS system.
+- Current personal project: Copy Number Variant analyzer for the Illumina cnv.vcf file type.  
 
 <!---
 CSynodinos/CSynodinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
