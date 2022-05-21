@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christos Synodinos.
 - 👀 My career goal is to become a bioinformatician.
 - :star: I recently deployed my first python package!!! You can find it in my [flconverters](https://github.com/CSynodinos/flconverters) repository.
-- 🌱 I’m currently learning AWS CI & CD, Javascript (REACT & Apps Script) and REST API's.
+- 🌱 I’m currently learning AWS CI & CD and integration.
 - 📫 You can reach me via email at chris_sinodinos@outlook.com
 - I am proficient in Python, Jupyter Notebooks, and SQL both through personal projects and work experience. 
 - I am currently leading a team for the development of a LIMS system in Google Sheets.
