@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christos Synodinos.
+- 👋 Hello World, I’m Christos Synodinos.
 - 👀 My career goal is to become a bioinformatician.
 - :star: I recently deployed my first python package!!! You can find it in my [flconverters](https://github.com/CSynodinos/flconverters) repository.
 - 🌱 I’m currently learning AWS CI & CD and integration.
