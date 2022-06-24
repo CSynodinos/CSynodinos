@@ -1,10 +1,10 @@
 - 👋 Hello World, I’m Christos Synodinos.
-- 👀 My career goal is to become an expert bioinformatician.
+- 👀 My career goal is to become an expert data scientist.
 - :star: I recently deployed my first python package!!! You can find it in my [flconverters](https://github.com/CSynodinos/flconverters) repository.
 - 🌱 I’m currently learning AWS CI & CD and integration.
 - :book: I am proficient in Python, Jupyter Notebooks, and SQL both through personal projects and work experience. 
 - :muscle: I am currently leading a team for the development of a LIMS system.
-- :eyeglasses: Current personal project: Copy Number Variant analyzer for the Illumina cnv.vcf file type.  
+- :eyeglasses: Current personal project: Expansion of the market analysis ML program for stocks and cryptocurrencies.  
 - 📫 You can reach me via email at chris_sinodinos@outlook.com
 
 <!---
