@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS CI & CD and integration.
 - :book: I am proficient in Python, Jupyter Notebooks, and SQL both through personal projects and work experience. 
 - :muscle: I am currently leading a team for the development of a LIMS system.
-- :eyeglasses: Current personal project: Expansion of the market analysis ML program for stocks and cryptocurrencies.  
+- :eyeglasses: Current personal project: Expansion of the market analysis ML program for stocks and cryptocurrencies (https://github.com/CSynodinos/Market-Analysis).  
 - 📫 You can reach me via email at chris_sinodinos@outlook.com
 
 <!---
